@@ -31,7 +31,7 @@ Gosto de aprender novas tecnologias, resolver problemas e transformar conhecimen
 ### Linguagens de programação
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,fortran&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,fortran&theme=light" />
 </div>
 
 ### Desenvolvimento e ferramentas
@@ -78,10 +78,6 @@ Tenho projetos acadêmicos e práticos desenvolvidos ao longo da graduação, en
 
 <a href="https://www.linkedin.com/in/debora-goncalves-costa/">
   <img src="https://img.shields.io/badge/LinkedIn-Perfil-163B70?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/deboragoncalves35">
-  <img src="https://img.shields.io/badge/GitHub-Perfil-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
