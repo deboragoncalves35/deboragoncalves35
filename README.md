@@ -37,7 +37,7 @@ Gosto de aprender novas tecnologias, resolver problemas e transformar conhecimen
 ### Desenvolvimento e ferramentas
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,git,github,mysql,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,git,github,mysql,&theme=light" />
 </div>
 
 ---
